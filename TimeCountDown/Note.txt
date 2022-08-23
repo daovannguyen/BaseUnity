@@ -1,0 +1,4 @@
+1.
+2. Sử dụng UnityEvent, và enabled = false khi chạy xong:
+	+ ưu điểm update chạy 1 lần duy nhất
+	+ class khác có thể dùng sự kiện thay vì phải kế thừa 
